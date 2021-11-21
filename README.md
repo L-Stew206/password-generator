@@ -10,3 +10,8 @@ I learned how to create a for loop for a single output.
 I learned how to combine arrays into a single array.
 I had to check my varibles if they were true in order to work.
 
+live link 
+https://l-stew206.github.io/password-generator/
+
+repo link
+https://github.com/L-Stew206/password-generator
